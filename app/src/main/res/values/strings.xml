@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FocusScroll</string>
+    <string name="accessibility_service_description">FocusScroll Accessibility Service</string>
+</resources>

@@ -1,0 +1,15 @@
+.gradle/
+.idea/
+build/
+*/build/
+local.properties
+
+*.iml
+
+# Android Studio
+.externalNativeBuild/
+.cxx/
+
+# Signing keys
+*.jks
+*.keystore
